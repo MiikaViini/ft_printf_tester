@@ -10,7 +10,6 @@ printf="results/printf_result.txt"
 # Put your ft_printf path here
 
 FT_PRINTF_DIR="YOUR PRINTF PATH HERE"
-FT_PRINTF_DIR=~/workspace/ft_printf/
 
 # Colors
 red="\033[0;31m"
