@@ -9,3 +9,6 @@ then just
 
 Test is going test your implementation against systems `printf`, so
 results may vary.
+
+------TEST IS NOT COMPLETE!!-------<br>
+Support is only at the moment for  `s, c, i, f, %, p` and `F` formats.
